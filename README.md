@@ -9,6 +9,7 @@ Tecnlogias Utilizadas
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 </div>
 
+<br>
 
 Contato
  <div>
